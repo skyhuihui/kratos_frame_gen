@@ -1,0 +1,2 @@
+# kratos_frame_gen
+根据数据库表对应的model，生成依赖于kratos_frame框架结构的service及controller代码
