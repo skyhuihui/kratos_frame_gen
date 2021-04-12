@@ -37,6 +37,7 @@ package main
 
 import (
 	"kratos_frame_gen/model"
+	"kratos_frame_gen/tmpl"
 )
 
 func main() {
